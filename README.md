@@ -1,1 +1,1 @@
-# cs418-lab1-tuberculosis
+# cs418-lab2-tuberculosis
